@@ -146,7 +146,11 @@ alias ㅂㅂㅂ='qqq'
     sudo apt install ros-humble-gz-ros2-control ros-humble-gz-ros2-control-demos -y
     sudo apt install ros-humble-ign-ros2-control ros-humble-ign-ros2-control-demos -y
     ```
-
+- ros cartograpther 설치
+    ```
+    sudo apt install ros-humble-navigation2
+    sudo apt install ros-humble-nav2-bringup
+    ```
 
 ### 한국어 설정
 - [참조 주소](https://gosury32.tistory.com/24)
