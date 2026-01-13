@@ -105,9 +105,7 @@ alias ㅂㅂㅂ='qqq'
     ubuntu-drivers devices
     ```
     - 여기서 끝에 recommended라고 되어있는 것 
-        
     ![alt text](image.png)
-    
     - 이렇게 떴다면
     ```
     # sudo apt install nvidia-driver-(추천받은 버전)
@@ -145,6 +143,11 @@ alias ㅂㅂㅂ='qqq'
     sudo apt install ros-humble-ros-gz -y
     sudo apt install ros-humble-gz-ros2-control ros-humble-gz-ros2-control-demos -y
     sudo apt install ros-humble-ign-ros2-control ros-humble-ign-ros2-control-demos -y
+    ```
+- ros cartograpther 설치
+    ```
+    sudo apt install ros-humble-navigation2
+    sudo apt install ros-humble-nav2-bringup
     ```
 
 ### 한국어 설정
